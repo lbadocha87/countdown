@@ -16,7 +16,7 @@ class App extends Component {
         <header className="App-header">
 					
 					<h1>Zostało</h1>
-					<h2><Countdown date={'Sun, 22 Jul 2024 09:00:00'} renderer={this.renderer} /></h2>
+					<h2><Countdown date={'Mon, 22 Jul 2024 09:00:00'} renderer={this.renderer} /></h2>
         </header>
       </div>
     );
